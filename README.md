@@ -56,6 +56,7 @@ git push
 
 ## Repository File Structure
 
+```
 ├── README.md          <- The top-level README for developers using this project.
 │
 ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
@@ -77,4 +78,4 @@ git push
 └── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
     │
     └── figures        <- Generated graphics and figures to be used in reporting
-
+```
