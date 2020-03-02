@@ -53,3 +53,28 @@ git push
 ## [VAN/Data Slides](https://docs.google.com/presentation/d/1yuEKgZQAlnpWOLEpBtRPCba4QyelkvfX1nuhnCiEjW8/edit)
 
 ## [New Fellows Training Guide Easy Access](https://docs.google.com/document/d/1c0BH66W-C0BJB-yrPQ3740neOrswRrdO1iJbUaCedqw/edit)
+
+## Repository File Structure
+
+├── README.md          <- The top-level README for developers using this project.
+│
+├── references         <- Data dictionaries, manuals, and all other explanatory materials.
+│
+├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
+│                         generated with `pip freeze > requirements.txt`
+│
+├── data
+│   ├── processed      <- The final, canonical data sets for modeling.
+│   │
+│   └── raw            <- The original, immutable data dump.
+│
+├── src                <- Source code for use in this project.
+│   │
+│   ├── production     <- Final, working code
+│   │   
+│   └── testing        <- Code that is in development
+│   
+└── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
+    │
+    └── figures        <- Generated graphics and figures to be used in reporting
+
