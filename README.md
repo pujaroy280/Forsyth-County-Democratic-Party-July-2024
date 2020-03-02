@@ -42,8 +42,7 @@ git push
 ```
 
 4. You can visually manage branching, pull requests, and hosting sites / apps on GitLab. [more to be added about this soon]
-
-### For hosting an HTML file on Gitlab, you can fork this Bluebonnet Data repository: (Website Hosting)[https://gitlab.com/bluebonnet-data/collab-test/bluebonnet-data-website-hosting-template]
+*  Hosting HTML File on Gitlab: (Website Hosting)[https://gitlab.com/bluebonnet-data/collab-test/bluebonnet-data-website-hosting-template]
 
 ## [Data Guide Documentation Here](https://docs.google.com/document/d/117OsHl77wyzDyEItQyr4ZmmwDtHCsW6pukC63mXut2w/edit)
 
