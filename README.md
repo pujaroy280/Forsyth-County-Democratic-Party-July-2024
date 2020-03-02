@@ -54,7 +54,7 @@ git push
 
 ## [New Fellows Training Guide Easy Access](https://docs.google.com/document/d/1c0BH66W-C0BJB-yrPQ3740neOrswRrdO1iJbUaCedqw/edit)
 
-## Repository File Structure [Click here for CookieCutter Datascience's Breakdown](https://drivendata.github.io/cookiecutter-data-science/)
+## Repository File Structure: [Click here for CookieCutter Datascience's Breakdown](https://drivendata.github.io/cookiecutter-data-science/)
 
 ```
 ├── README.md          <- The top-level README for developers using this project.
