@@ -16,9 +16,10 @@ git push
 ```
 
 * Git collaboration tips: 
-** This is something that will need to be discussed amongst your team members. If you'll be starting off working in completely separate files, then perhaps using one master branch to collaborate makes the most sense. 
-** However, if you're working on an intertwined project where everyone might be touching the same file at some point, perhaps isolate your own work on your own branch and have an updated master branch where you can pull from for updates from other members. 
-** This keeps the work more clean and easier to figure out what code needs to be focused on if there are conflicts and/or errors. 
+
+1. This is something that will need to be discussed amongst your team members. 
+2. If you'll be starting off working in completely separate files, then perhaps using one master branch to collaborate makes the most sense. 
+3. However, if you're working on an intertwined project where everyone might be touching the same file at some point, perhaps isolate your own work on your own branch and have an updated master branch where you can pull from for updates from other members. This keeps the work more clean and easier to figure out what code needs to be focused on if there are conflicts and/or errors. 
 
 ## Git Repo Managers ++  
 On Gitlab, just like on more well known repo managers like Github, we can fork a template repository for each campaign team and make it a private repository within each campaign team's Bluebonnet Sub-Group.
@@ -38,16 +39,16 @@ git commit -m "adding my first random file!"
 git push 
 ```
 
-4. For Git collaboration tips 
+4. You can visually manage branching, pull requests, and hosting sites / apps on GitLab. [more to be added about this soon]
 
 ## Data Guide 
 
 [Data Guide Documentation Here](https://docs.google.com/document/d/117OsHl77wyzDyEItQyr4ZmmwDtHCsW6pukC63mXut2w/edit)
 
 ## R Docs
-
+[coming soon]
 ## Python Docs
-
+[coming soon]
 ## VAN Docs
 [VAN/Data Slides](https://docs.google.com/presentation/d/1yuEKgZQAlnpWOLEpBtRPCba4QyelkvfX1nuhnCiEjW8/edit)
 
