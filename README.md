@@ -1,9 +1,11 @@
 # Template Repository
 
 ## Git 
-[Tutorials Point's Git Tutorial](https://www.tutorialspoint.com/git/index.htm)
-[BitBucket's Git Tutorial](https://www.atlassian.com/git/tutorials)
+### Tutorial links
+* [Tutorials Point's Git Tutorial](https://www.tutorialspoint.com/git/index.htm)
+* [BitBucket's Git Tutorial](https://www.atlassian.com/git/tutorials)
 
+### General Git primer
 * Here are the main commands you'll probably be using when you start off: 
 ```
 git clone [repository link here]
