@@ -41,15 +41,12 @@ git push
 
 4. You can visually manage branching, pull requests, and hosting sites / apps on GitLab. [more to be added about this soon]
 
-## Data Guide 
-
-[Data Guide Documentation Here](https://docs.google.com/document/d/117OsHl77wyzDyEItQyr4ZmmwDtHCsW6pukC63mXut2w/edit)
+## [Data Guide Documentation Here](https://docs.google.com/document/d/117OsHl77wyzDyEItQyr4ZmmwDtHCsW6pukC63mXut2w/edit)
 
 ## R Docs
 [coming soon]
 ## Python Docs
 [coming soon]
-## VAN Docs
-[VAN/Data Slides](https://docs.google.com/presentation/d/1yuEKgZQAlnpWOLEpBtRPCba4QyelkvfX1nuhnCiEjW8/edit)
+## [VAN/Data Slides](https://docs.google.com/presentation/d/1yuEKgZQAlnpWOLEpBtRPCba4QyelkvfX1nuhnCiEjW8/edit)
 
 ## [New Fellows Training Guide Easy Access](https://docs.google.com/document/d/1c0BH66W-C0BJB-yrPQ3740neOrswRrdO1iJbUaCedqw/edit)
