@@ -28,6 +28,11 @@ On Gitlab, just like on more well known repo managers like Github, we can fork a
 
 1. You may have some SSH keys left over from Github authentication. To make authentication for Gitlab smoother, follow these steps: [Gitlab SSH Auth](https://docs.gitlab.com/ee/ssh/)
 2. To start working with your campaign's repository, make sure you clone this locally. You should have permissions to clone this and contribute now after the SSH keys (or if you skipped that step, perhaps just entering manually the authentication when prompted by the terminal after running the git clone command)
+3. Once you have your ssh keys set based on step 1, make sure you git clone from the ssh route. However, if you're not setting up ssh keys and you're cloning from http instead, you would set up the following: 
+4. When cloning a private repository, you'll need to use a personal token for cloning HTTP: Go to [your personal access tokens](https://gitlab.com/profile/personal_access_tokens) > Name the token > Check off `read_repository` and `write_repository` > Press the 'create personal access token' button > make sure you save that token somewhere 
+5. Enter the following in the terminal to clone: git clone https://<YOUR USERNAME>:<YOUR PERSONAL ACCESS TOKEN>@gitlab.com/<GIT REPOSITORY PATH>
+6. Besides all of the above, you should be able to also download the zip file version. 
+
 ```
 git clone https://gitlab.com/bluebonnet-data/[replace with campaign team's respository name here].git
 ```
