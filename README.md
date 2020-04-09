@@ -32,6 +32,16 @@ On Gitlab, just like on more well known repo managers like Github, we can fork a
 4. When cloning a private repository, you'll need to use a personal token for cloning HTTP: Go to [your personal access tokens](https://gitlab.com/profile/personal_access_tokens) > Name the token > Check off `read_repository` and `write_repository` > Press the 'create personal access token' button > make sure you save that token somewhere 
 5. Enter the following in the terminal to clone: git clone https://<YOUR USERNAME>:<YOUR PERSONAL ACCESS TOKEN>@gitlab.com/<GIT REPOSITORY PATH>
 6. Besides all of the above, you should be able to also download the zip file version. 
+7. When you download the zip file version, you would need to follow these terminal commands: 
+```
+cd <your cloned repo name> 
+git init 
+git remote add origin git@gitlab.com:<enter repository path here>
+git pull origin master --allow-unrelated-histories (assuming you didn't make any changes) 
+git add . 
+git commit -m "<your commit message>"
+git push --set-upstream origin master 
+```
 
 ```
 git clone https://gitlab.com/bluebonnet-data/[replace with campaign team's respository name here].git
