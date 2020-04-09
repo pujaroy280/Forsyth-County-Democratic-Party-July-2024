@@ -59,6 +59,16 @@ git push
 4. You can visually manage branching, pull requests, and hosting sites / apps on GitLab. [more to be added about this soon]
 *  Hosting HTML File on Gitlab: [Website Hosting](https://gitlab.com/bluebonnet-data/collab-test/bluebonnet-data-website-hosting-template)
 
+## Trouble shooting above steps (you're not alone)
+When cloning a private repository: 
+```
+remote: HTTP Basic: Access denied
+```
+* https://gitlab.com/gitlab-org/gitlab-foss/-/issues/30275
+* https://gitlab.com/gitlab-com/support-forum/issues/2869
+There are a couple of ways people have resolved the issue via terminal. The key point is that you have to authenticate or trigger authentication (log in / verify you're able to clone a private repository)
+The above steps to put your username and personal access token is pretty straightforward. Otherwise you can also follow the steps they have in those links. 
+
 ## [Data Guide Documentation Here](https://docs.google.com/document/d/117OsHl77wyzDyEItQyr4ZmmwDtHCsW6pukC63mXut2w/edit)
 
 ## R Docs
