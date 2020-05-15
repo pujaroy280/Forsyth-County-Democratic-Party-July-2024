@@ -5,6 +5,10 @@
 * [Tutorials Point's Git Tutorial](https://www.tutorialspoint.com/git/index.htm)
 * [BitBucket's Git Tutorial](https://www.atlassian.com/git/tutorials)
 
+
+### Read more about Git Clients to manage Git 
+[BlueBonnet's Git Clients' Wiki](https://gitlab.com/bluebonnet-data/bbd-documentation/git-and-gitlab-documentation/-/wikis/Git-Clients-to-Navigate-Git)
+
 ### General Git primer
 * Here are the main commands you'll probably be using when you start off: 
 ```
