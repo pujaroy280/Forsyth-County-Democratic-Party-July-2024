@@ -109,5 +109,3 @@ The above steps to put your username and personal access token is pretty straigh
     └── figures        <- Generated graphics and figures to be used in reporting
 ```
 
-## Misc
-Hey it's Noah
