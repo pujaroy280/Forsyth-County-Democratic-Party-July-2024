@@ -30,18 +30,6 @@ git push
 * Get Github Desktop to easily manage your repositories: [Download it Here](https://desktop.github.com/)
 * Hosting HTML files on your own statis site on GitHub: [Website Hosting](https://pages.github.com/)
 
-## [Data Guide Documentation Here](https://docs.google.com/document/d/117OsHl77wyzDyEItQyr4ZmmwDtHCsW6pukC63mXut2w/edit)
-
-## R Docs
-[coming soon]
-
-## Python Docs
-[coming soon]
-
-## [VAN/Data Slides](https://docs.google.com/presentation/d/1yuEKgZQAlnpWOLEpBtRPCba4QyelkvfX1nuhnCiEjW8/edit)
-
-## [New Fellows Training Guide Easy Access](https://docs.google.com/document/d/1c0BH66W-C0BJB-yrPQ3740neOrswRrdO1iJbUaCedqw/edit)
-
 ## Repository File Structure: [Click here for CookieCutter Datascience's Breakdown](https://drivendata.github.io/cookiecutter-data-science/)
 
 ```
