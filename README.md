@@ -1,7 +1,7 @@
 # Template Repository
 
 ## Useful links
-* [Github starter tutorial](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
+* [Github starter tutorial](https://www.freecodecamp.org/news/git-and-github-for-beginners/)
 * [Github Desktop](https://desktop.github.com/)
 * [Read more about what Github can do](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github)
 * Hosting HTML files on your own statis site on GitHub: [Website Hosting](https://pages.github.com/)
